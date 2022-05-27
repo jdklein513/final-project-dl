@@ -6,7 +6,7 @@ In 2019 Major League Baseball completed its 150th season with about 68.5 million
 
 ## Final Report
 
-[Link to final report]()
+[Link to final report](https://github.iu.edu/joeklein/final-project-dl/tree/master/documentation/report)
 
 ## Repo Structure
 
